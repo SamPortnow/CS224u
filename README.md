@@ -13,4 +13,12 @@
 - Chloe
      - Summarize methods sections in papers of our literature review
      - Begin drafting experimental protocol
-  
+
+### 2025.26.05
+
+- Sam
+  - Dyck Generation
+  - ReCOGS data augmentation
+  - Transformer Training
+  - DsPy Training
+    
